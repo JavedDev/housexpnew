@@ -1,0 +1,18 @@
+.request-wrap{
+    min-height: 350px;
+    display: flex;align-items: center;
+    
+}
+
+.req-description{
+    color: var(--white-color);
+    p.top{font-style: italic;}
+    .font-display{
+        font-style: italic;
+        line-height: .8;
+        sub{
+            font-weight: 500;
+            line-height: 1;
+        }
+    }
+}
